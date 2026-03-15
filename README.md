@@ -189,6 +189,9 @@ p.note { display: none; }
 <h2><span class="yellow">深夜帯の西の空、お星様が綺麗でしたが星座がトレースできず・・・宿題</span></h2>
 <a href="20260314_011.JPG" target="_blank"><img src="20260314_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">見えている範囲の星座をなんとかトレース</span></h2>
+<a href="20260314_026.JPG" target="_blank"><img src="20260314_026.JPG" alt="サンプル画像" class="responsive-media"></a>
+
 <h2><span class="yellow">13日はFKD</span></h2>
 <a href="20260314_012.JPG" target="_blank"><img src="20260314_012.JPG" alt="サンプル画像" class="responsive-media"></a>
 
